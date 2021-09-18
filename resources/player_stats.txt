@@ -8,3 +8,4 @@ id,name,number,sport,points,assists,fouls
 3,Stephen Carry,30,BASKET_BALL,42,8,2
 3,Stephen Carry,30,BASKET_BALL,36,4,3
 3,Stephen Carry,30,BASKET_BALL,32,4,2
+4,Kristaps Porzingis,6,BASKET_BALL,22,2,3
