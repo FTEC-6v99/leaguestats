@@ -1,0 +1,10 @@
+id,name,number,sport,points,assists,fouls
+1,Lebron James,6,BASKET_BALL,26,8,3
+1,Lebron James,6,BASKET_BALL,22,6,2
+1,Lebron James,6,BASKET_BALL,28,11,4
+2,Luka Doncic,77,BASEBALL,32,12,4
+2,Luka Doncic,77,BASEBALL,26,9,2
+2,Luka Doncic,77,BASEBALL,28,7,4
+3,Stephen Carry,30,BASKET_BALL,42,8,2
+3,Stephen Carry,30,BASKET_BALL,36,4,3
+3,Stephen Carry,30,BASKET_BALL,32,4,2

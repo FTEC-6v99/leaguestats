@@ -1,0 +1,3 @@
+# class Game():
+#     def __init__(self, home_team: str, away_team: str, date: str, arena: str):
+#         # self...
